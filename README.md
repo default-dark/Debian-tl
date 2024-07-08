@@ -3,17 +3,12 @@
 debian-tl e um tools simples 
 
 feito em bash 
+# ferramentas disponiveis para instalação 
+•nmap
+•sqlmap
+•hydra
+•crunch
+•python
+•golang
 #
-nmap
-#
-sqlmap
-#
-hydra
-#
-crunch
-#
-python
-#
-golang
-
 etc...
